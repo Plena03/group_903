@@ -1,2 +1,7 @@
 # Project exclude paths
 /out/
+
+Для клонирования репозитория
+```
+git clone <>
+```
